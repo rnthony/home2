@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://tellez.xyz/index.html</loc>
+    <lastmod>2019-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tellez.xyz/phone/index.html"/>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/pins-crop-u535.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/pins-crop-u563.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/pins-crop-u556.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/pins-crop-u542.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/pins-crop-u549.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/pins-crop-u525.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tellez.xyz/images/pasted%20image%201775x1769-crop-u225.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tellez.xyz/phone/resume.html</loc>
+    <lastmod>2019-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tellez.xyz/phone/scout.html</loc>
+    <lastmod>2019-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tellez.xyz/assets/img_7403.heic</loc>
+    <lastmod>2019-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
